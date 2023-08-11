@@ -1,4 +1,4 @@
-# ds-project
+# Course HW example
 This work consists of 3 parts - regression, classification and computer vision. 
 
 Regression task was performed on Air Qualtity dataset where I tried to predict numerical air indicators; in this part I tried both ML and Dl methods. link to the dataset - https://drive.google.com/file/d/1Cf1oA7L9UM2B7HemJ9gFbr9IAgHquyfT/view?usp=share_link
